@@ -1,2 +1,7 @@
-# Gerrymandering
-tableau link: https://public.tableau.com/views/Team123_Demo/GerrymanderingwithSocietalFactors?:language=en-US&:display_count=n&:origin=viz_share_link
+# Data Science Projects
+This repository contains academic porjects done be me.
+Some of the projects are done in R studio using R Markdown. 
+
+##Contents
+
+

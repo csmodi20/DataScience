@@ -9,8 +9,8 @@ Most of the projects are done in R studio using R Markdown and published in RPub
 [The dataset I have chosen is from the UCI Machine Learning Repository and can be found here](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#)\
 Here are the models that I have built.
   * [Data Exploration](https://rpubs.com/cmodi20/853683)
-  * [Random Forest](https://rpubs.com/cmodi20/853691)
-  * [logisticregression model](https://rpubs.com/cmodi20/853669)
+  * [RandomForest](https://rpubs.com/cmodi20/853691)
+  * [Logisticregression model](https://rpubs.com/cmodi20/853669)
   * [Navie Bayes with RFE](https://rpubs.com/cmodi20/853692)
 
 

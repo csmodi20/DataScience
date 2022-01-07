@@ -18,6 +18,6 @@ Here are the models that I have built.
 * **Some other work**
   * **D3JS**
     * [Board Game](https://csmodi20.github.io/D3JS-Node-Edge/) Click on any node to fix its postion and double click to release it.
-    * [Interactive line chart](https://csmodi20.github.io/D3JS-Linechart_interactive/)
+    * [Interactive line chart](https://csmodi20.github.io/D3JS-Linechart_interactive/) Hoverover the points on the line and the barchart will pop up at bottom.
     * [Choropleth map](https://csmodi20.github.io/D3JS-choropleth/) Hover Over to any country to see deatil. Select any game from the dropdwon list to see its rating change.
 

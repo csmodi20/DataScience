@@ -5,7 +5,7 @@ Most of the projects are done in R studio using R Markdown and published in RPub
 
 
 ## Contents
-* **Data Mining / Machine Larning**
+* **Data Mining / Machine Learning**
    * **Credit Card payment defaulter:** Given a dataset of credit card users, I am going to train different models to predict which users are likely to be payment defaulters. A payment defaulter is a user who fails to make a credit card payment for a specific pay period (usually one month). For this, I will employ different data mining techniques and compare the results each model yields to determine the best model for this scenario. The data mining techniques I use will aim to classify each user into one of two categories - not credible(will default next payment) and credible (will not default next payment).\
 [The dataset I have chosen is from the UCI Machine Learning Repository and can be found here](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients#)\
 Here are the models that I have built.

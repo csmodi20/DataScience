@@ -15,6 +15,7 @@ Here are the models that I have built.
      * [Navie Bayes with RFE](https://rpubs.com/cmodi20/853692)
 
   * **Upcoming projects......**
+  * **Starbucks custoemr segmentation**: Unsupervised machine learning.
 * **Some other work**
   * **D3JS**
     * [Board Game](https://csmodi20.github.io/D3JS-Node-Edge/) Click on any node to fix its postion and double click to release it.
